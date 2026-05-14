@@ -660,7 +660,7 @@ export default function App() {
               <span className="text-xl font-bold tracking-tight text-[#003b9c]">Remit.go</span>
             </div>
           </div>
-          <p className="text-slate-500 text-sm">© 2026 Remit.go by BRI. Licensed MSO 19-03-02451.</p>
+          <p className="text-slate-500 text-sm">© 2026 Remit.go by BRI. Licensed MSO 19-03-02451. Design by RoketMarket</p>
           <div className="flex gap-6">
             <button className="text-slate-400 hover:text-[#003b9c] transition-colors"><Smartphone className="w-5 h-5" /></button>
             <button className="text-slate-400 hover:text-[#003b9c] transition-colors"><ShieldCheck className="w-5 h-5" /></button>

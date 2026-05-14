@@ -1,4 +1,5 @@
 # Remit.go! Landing Page
+Design by RoketMarket
 
 This is the landing page for Remit.go!, a mobile application designed for Indonesian Migrant Workers (PMI) in Hong Kong to send money to Indonesia easily and securely.
 
