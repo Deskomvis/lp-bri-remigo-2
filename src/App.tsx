@@ -127,7 +127,7 @@ export default function App() {
           <div className="flex items-center gap-2">
             <div className="flex items-center gap-2">
               {/* Logo diletakkan langsung di depan teks */}
-              <img src="/logobrigo.png" alt="Logo" className="h-8 w-auto" />
+              <img src="./assets/images/logobrigo.png" alt="Logo" className="h-8 w-auto" />
               <span className="text-xl font-bold tracking-tight text-[#003b9c]">Remit.go</span>
             </div>
           </div>
@@ -204,7 +204,7 @@ export default function App() {
           >
             <div className="absolute -inset-10 bg-blue-400/10 blur-[100px] rounded-full -z-10" />
             <img
-              src="/imagehero.png"
+              src="./assets/images/imagehero.png"
               alt="Remit.go App Mockup"
               className="w-full h-auto drop-shadow-2xl"
               referrerPolicy="no-referrer"
@@ -236,62 +236,62 @@ export default function App() {
             {/* List 10 Banner - Ganti src dengan file Anda di folder public */}
             <SwiperSlide>
               <div className="aspect-3/4 w-full rounded-2xl overflow-hidden shadow-lg">
-                <img src="/1.png" className="w-full h-full object-cover" alt="Banner 1" />
+                <img src="./assets/images/1.png" className="w-full h-full object-cover" alt="Banner 1" />
               </div>
             </SwiperSlide>
 
             <SwiperSlide>
               <div className="aspect-3/4 w-full rounded-2xl overflow-hidden shadow-lg">
-                <img src="/2.png" className="w-full h-full object-cover" alt="Banner 2" />
+                <img src="./assets/images/2.png" className="w-full h-full object-cover" alt="Banner 2" />
               </div>
             </SwiperSlide>
 
             <SwiperSlide>
               <div className="aspect-3/4 w-full rounded-2xl overflow-hidden shadow-lg">
-                <img src="/3.png" className="w-full h-full object-cover" alt="Banner 3" />
+                <img src="./assets/images/3.png" className="w-full h-full object-cover" alt="Banner 3" />
               </div>
             </SwiperSlide>
 
             <SwiperSlide>
               <div className="aspect-3/4 w-full rounded-2xl overflow-hidden shadow-lg">
-                <img src="/4.png" className="w-full h-full object-cover" alt="Banner 4" />
+                <img src="./assets/images/4.png" className="w-full h-full object-cover" alt="Banner 4" />
               </div>
             </SwiperSlide>
 
             <SwiperSlide>
               <div className="aspect-3/4 w-full rounded-2xl overflow-hidden shadow-lg">
-                <img src="/5.png" className="w-full h-full object-cover" alt="Banner 4" />
+                <img src="./assets/images/5.png" className="w-full h-full object-cover" alt="Banner 4" />
               </div>
             </SwiperSlide>
 
             <SwiperSlide>
               <div className="aspect-3/4 w-full rounded-2xl overflow-hidden shadow-lg">
-                <img src="/6.png" className="w-full h-full object-cover" alt="Banner 4" />
+                <img src="./assets/images/6.png" className="w-full h-full object-cover" alt="Banner 4" />
               </div>
             </SwiperSlide>
 
             <SwiperSlide>
               <div className="aspect-3/4 w-full rounded-2xl overflow-hidden shadow-lg">
-                <img src="/7.png" className="w-full h-full object-cover" alt="Banner 4" />
+                <img src="./assets/images/7.png" className="w-full h-full object-cover" alt="Banner 4" />
               </div>
             </SwiperSlide>
 
             <SwiperSlide>
               <div className="aspect-3/4 w-full rounded-2xl overflow-hidden shadow-lg">
-                <img src="/8.png" className="w-full h-full object-cover" alt="Banner 4" />
+                <img src="./assets/images/8.png" className="w-full h-full object-cover" alt="Banner 4" />
               </div>
             </SwiperSlide>
 
             <SwiperSlide>
               <div className="aspect-3/4 w-full rounded-2xl overflow-hidden shadow-lg">
-                <img src="/9.png" className="w-full h-full object-cover" alt="Banner 4" />
+                <img src="./assets/images/9.png" className="w-full h-full object-cover" alt="Banner 4" />
               </div>
             </SwiperSlide>
 
             {/* Lanjutkan sampai Banner 10 */}
             <SwiperSlide>
               <div className="aspect-3/4 w-full rounded-2xl overflow-hidden shadow-lg">
-                <img src="/10.png" className="w-full h-full object-cover" alt="Banner 10" />
+                <img src="./assets/images/10.png" className="w-full h-full object-cover" alt="Banner 10" />
               </div>
             </SwiperSlide>
 
@@ -358,7 +358,7 @@ export default function App() {
           >
             <div className="absolute -inset-10 bg-blue-50/50 rounded-full blur-3xl -z-10" />
             <img
-              src="/gambar3brigo.png"
+              src="./assets/images/gambar3brigo.png"
               alt="Steps Illustration"
               className="w-full max-w-lg mx-auto drop-shadow-xl"
               referrerPolicy="no-referrer"
@@ -450,7 +450,7 @@ export default function App() {
               className="relative rounded-3xl overflow-hidden shadow-2xl"
             >
               <img
-                src="/src/assets/images/remit_hk_office_1778655934868.png"
+                src="./assets/images/remit_hk_office_1778655934868.png"
                 alt="Remit.go HK Branch"
                 className="w-full h-auto"
                 referrerPolicy="no-referrer"
@@ -514,7 +514,7 @@ export default function App() {
               <div className="relative">
                 <div className="absolute -inset-4 bg-blue-100/50 rounded-[3rem] blur-2xl -z-10" />
                 <img
-                  src="gambar4brigo.png"
+                  src="./assets/images/gambar4brigo.png"
                   alt="BRI Commitment"
                   className="w-full h-auto rounded-4xl shadow-xl"
                   referrerPolicy="no-referrer"
@@ -656,7 +656,7 @@ export default function App() {
           <div className="flex items-center gap-2">
             <div className="flex items-center gap-2">
               {/* Logo diletakkan langsung di depan teks */}
-              <img src="/logobrigo.png" alt="Logo" className="h-8 w-auto" />
+              <img src="./assets/images/logobrigo.png" alt="Logo" className="h-8 w-auto" />
               <span className="text-xl font-bold tracking-tight text-[#003b9c]">Remit.go</span>
             </div>
           </div>
