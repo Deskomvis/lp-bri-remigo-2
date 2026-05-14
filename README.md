@@ -1,20 +1,31 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Remit.go! Landing Page
 
-# Run and deploy your AI Studio app
+This is the landing page for Remit.go!, a mobile application designed for Indonesian Migrant Workers (PMI) in Hong Kong to send money to Indonesia easily and securely.
 
-This contains everything you need to run your app locally.
+## Features
+- Modern bento-box layout
+- Responsive design
+- Interactive components with Framer Motion
+- Swiper-based banner slider
+- Localized content for the target audience
 
-View your app in AI Studio: https://ai.studio/apps/b173012c-53e3-48ef-9a51-6cbb736b48ec
+## Development
 
-## Run Locally
+### Prerequisites
+- Node.js
 
-**Prerequisites:**  Node.js
-
-
+### Setup
 1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+   ```bash
+   npm install
+   ```
+2. Run the application locally:
+   ```bash
+   npm run dev
+   ```
+
+### Production
+To build the application for production:
+```bash
+npm run build
+```
